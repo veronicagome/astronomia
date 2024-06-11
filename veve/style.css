@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #000000;
+    color: rgb(76, 201, 184);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 34px 0;
+}
+
+.cabecalho-imagem{
+    width: 30%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 220px;
+}
+#astronomy-footer {
+    background-color: #1a1a1a;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#hashtags {
+    margin-top: 10px;
+}
