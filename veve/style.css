@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: 10;
     padding: 0;
 }
 
@@ -13,17 +13,17 @@
 }
 
 .cabecalho-imagem{
-    width: 30%;
+    width: 40%;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: 220px;
+    font-size: 100px;
 }
 #astronomy-footer {
-    background-color: #1a1a1a;
-    color: white;
+    background-color: #d5c8c8;
+    color: rgb(255, 255, 255);
     padding: 20px;
     text-align: center;
 }
